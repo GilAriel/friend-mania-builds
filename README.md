@@ -12,6 +12,19 @@ Go to **[the latest release](../../releases/latest)** and download the zip for y
 
 Always unzip a new version into a new folder, never over an old one.
 
+## Connect a controller
+
+PlayStation (DualSense, DualShock 4) and Xbox pads both work. You can connect one before or after starting the game.
+
+- **With a cable:** plug it into a USB port. That's it.
+- **Bluetooth, PlayStation 5 pad:** hold **PS** + **Create** (the small button left of the touchpad) until the light flashes fast. **PlayStation 4 pad:** hold **PS** + **Share**.
+- **Bluetooth, Xbox pad:** turn it on, then hold the small pair button on top until the Xbox logo flashes fast.
+- Then on **Windows:** Settings > Bluetooth & devices > Add device > Bluetooth, and pick "Wireless Controller" (or "Xbox Wireless Controller"). On a **Mac:** System Settings > Bluetooth, and click Connect next to it.
+
+The first pad is Player 1, a second pad is Player 2. The on-screen buttons switch to match your pad.
+
+**No sound after connecting a PlayStation pad?** Windows sometimes makes the pad its speaker. The game switches back to your speakers by itself, or pick them in the menu (Options) > Settings > Sound device.
+
 ## Play together online
 
 Everyone needs the same version.
