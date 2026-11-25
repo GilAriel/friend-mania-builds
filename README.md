@@ -2,6 +2,10 @@
 
 An isometric co-op roguelite for 1 to 4 friends, run by a snarky AI Dungeon Master.
 
+## Play in your browser
+
+**[Play Friend Mania in the browser](https://gilariel.github.io/friend-mania-builds/)** (Chrome or Edge work best). Nothing to install. It's couch co-op on one screen: plug in up to 2 controllers, or use the keyboard. Click the game once so it can play sound. Online co-op needs the downloaded game below.
+
 ## Get the game
 
 Go to **[the latest release](../../releases/latest)** and download the zip for your computer, under **Assets**:
